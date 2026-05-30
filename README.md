@@ -12,7 +12,7 @@ npx skills@latest add knowbody/skills
 
 Pick the skills you want and the coding agents to install them on.
 
-Prefer native Claude Code plugins? Point a marketplace at this repo and install it as the `matt-skills` plugin.
+Prefer native Claude Code plugins? Point a marketplace at this repo and install it as the `knowbody-skills` plugin.
 
 ## Reference
 
